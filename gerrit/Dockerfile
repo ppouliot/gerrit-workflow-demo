@@ -1,4 +1,4 @@
-FROM gerritforge/gerrit-ubuntu15.04:2.11.3
+FROM gerritforge/gerrit-ubuntu16.04:latest
 MAINTAINER svanoort
 
 USER root
